@@ -1,0 +1,1 @@
+# qr_code-scanner-to-get-scanner-data
